@@ -4,6 +4,24 @@ public class Bike {
     public void display(){
         System.out.println("Bike model" +model);
         System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
+        System.out.println("Bike manuName" +manuName);
 
     }
 }
