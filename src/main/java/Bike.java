@@ -10,18 +10,6 @@ public class Bike {
         System.out.println("Bike manuName" +manuName);
         System.out.println("Bike manuName" +manuName);
         System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
-        System.out.println("Bike manuName" +manuName);
 
     }
 }
