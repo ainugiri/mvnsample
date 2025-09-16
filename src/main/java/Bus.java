@@ -9,6 +9,15 @@ public class Bus {
         System.out.println("Bus model" +model);
         System.out.println("Bus model" +model);
         System.out.println("Bus manuName" +manuName);
+        System.out.println("Bus manuName" +manuName);
+        System.out.println("Bus manuName" +manuName);
+        System.out.println("Bus manuName" +manuName);
+        System.out.println("Bus manuName" +manuName);
+        System.out.println("Bus manuName" +manuName);
+        System.out.println("Bus manuName" +manuName);
+        System.out.println("Bus manuName" +manuName);
+        System.out.println("Bus manuName" +manuName);
+        System.out.println("Bus manuName" +manuName);
 
     }
 }
